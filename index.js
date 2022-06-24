@@ -1,5 +1,5 @@
 import express from 'express'
-import { allInSameBlock, anyOneFacilityWithInOneKmAway } from './src/blocks.js';
+import { allInSameBlock, anyOneFacilityWithInOneKmAway } from './blocks.js';
 
 const app = express()
 
